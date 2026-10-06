@@ -1,0 +1,65 @@
+Time: Tue Jul 21 10:37:42 2026
+Query: i lost my Id card
+Detected Intent: id_card
+Response: For lost ID card or duplicate ID card, submit an application to the Administrative Office through the concerned section.
+--------------------------------------------------
+Time: Tue Jul 21 10:37:57 2026
+Query: wifi not working in my hostel
+Detected Intent: hostel
+Response: For hostel-related issues, contact the concerned hostel caretaker or warden. For outing permission, submit the request as per campus rules.
+--------------------------------------------------
+Time: Tue Jul 21 10:38:10 2026
+Query: wifi not working in my hostel
+Detected Intent: hostel
+Response: For hostel-related issues, contact the concerned hostel caretaker or warden. For outing permission, submit the request as per campus rules.
+--------------------------------------------------
+Time: Tue Jul 21 10:38:10 2026
+Query: wifi not working in my hostel
+Detected Intent: hostel
+Response: For hostel-related issues, contact the concerned hostel caretaker or warden. For outing permission, submit the request as per campus rules.
+--------------------------------------------------
+Time: Tue Jul 21 10:38:10 2026
+Query: wifi not working in my hostel
+Detected Intent: hostel
+Response: For hostel-related issues, contact the concerned hostel caretaker or warden. For outing permission, submit the request as per campus rules.
+--------------------------------------------------
+Time: Tue Jul 21 10:38:10 2026
+Query: wifi not working in my hostel
+Detected Intent: hostel
+Response: For hostel-related issues, contact the concerned hostel caretaker or warden. For outing permission, submit the request as per campus rules.
+--------------------------------------------------
+Time: Tue Jul 21 10:38:10 2026
+Query: wifi not working in my hostel
+Detected Intent: hostel
+Response: For hostel-related issues, contact the concerned hostel caretaker or warden. For outing permission, submit the request as per campus rules.
+--------------------------------------------------
+Time: Tue Jul 21 10:38:10 2026
+Query: wifi not working in my hostel
+Detected Intent: hostel
+Response: For hostel-related issues, contact the concerned hostel caretaker or warden. For outing permission, submit the request as per campus rules.
+--------------------------------------------------
+Time: Tue Jul 21 10:38:10 2026
+Query: wifi not working in my hostel
+Detected Intent: hostel
+Response: For hostel-related issues, contact the concerned hostel caretaker or warden. For outing permission, submit the request as per campus rules.
+--------------------------------------------------
+Time: Tue Jul 21 10:38:10 2026
+Query: wifi not working in my hostel
+Detected Intent: hostel
+Response: For hostel-related issues, contact the concerned hostel caretaker or warden. For outing permission, submit the request as per campus rules.
+--------------------------------------------------
+Time: Tue Jul 21 10:38:10 2026
+Query: wifi not working in my hostel
+Detected Intent: hostel
+Response: For hostel-related issues, contact the concerned hostel caretaker or warden. For outing permission, submit the request as per campus rules.
+--------------------------------------------------
+Time: Tue Jul 21 10:38:10 2026
+Query: wifi not working in my hostel
+Detected Intent: hostel
+Response: For hostel-related issues, contact the concerned hostel caretaker or warden. For outing permission, submit the request as per campus rules.
+--------------------------------------------------
+Time: Tue Jul 21 10:38:10 2026
+Query: wifi not working in my hostel
+Detected Intent: hostel
+Response: For hostel-related issues, contact the concerned hostel caretaker or warden. For outing permission, submit the request as per campus rules.
+--------------------------------------------------

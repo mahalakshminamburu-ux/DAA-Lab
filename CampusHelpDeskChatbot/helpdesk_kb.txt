@@ -1,0 +1,11 @@
+scholarship|scholarship,bank,account,epass,jagananna,reimbursement|For scholarship issues, visit the Scholarship Section with your student ID, bank passbook copy, Aadhaar copy, and previous application details.
+exam_fee|exam,fee,challan,payment,semester,registration|For exam fee details, check the academic notice board or contact the Examination Section. Keep your student ID and payment receipt ready.
+hostel|hostel,room,dorm,warden,permission,outing|For hostel-related issues, contact the concerned hostel caretaker or warden. For outing permission, submit the request as per campus rules.
+medical|medical,hospital,doctor,medicine,health,sick,fever|For medical help, visit the campus medical room. In emergency situations, immediately inform the caretaker, security, or Administrative Office.
+library|library,book,renew,return,fine,borrow|For library services, contact the library counter with your ID card. Return or renew books before the due date to avoid fines.
+id_card|id,card,identity,lost,duplicate|For lost ID card or duplicate ID card, submit an application to the Administrative Office through the concerned section.
+wifi|wifi,internet,password,network,login,connection|For Wi-Fi or internet issues, contact the IT Infrastructure Office with your student ID, device details, and room or block location.
+transport|bus,transport,route,vehicle,driver,timing|For transport-related queries, contact the Transport Section or Administrative Office for route, timing, and permission details.
+mess|mess,food,dining,menu,quality,canteen|For mess or food-quality issues, report to the mess committee, caretaker, or Administrative Office with date, time, and exact problem details.
+office|office,administration,ao,director,section,timing|For general administrative queries, visit the Administrative Office during working hours with proper ID and supporting documents.
+
